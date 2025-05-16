@@ -4,8 +4,8 @@ En este repositorio estan los ejercicios planteados del libro Introducing Javasc
 # 📘 Estudio de "Introducing JavaScript Game Development"
 
 Autor: Graeme Stuart  
-Repositorio creado por: [Tu nombre o usuario de GitHub]  
-Inicio del estudio: [Fecha]  
+Repositorio creado por: Ruben Eduardo Regalado Estrada
+Inicio del estudio: 15/05/2025
 Duración estimada: 6–8 semanas
 
 ---
