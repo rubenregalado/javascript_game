@@ -33,4 +33,87 @@ Estudiar a fondo el desarrollo de videojuegos 2D con JavaScript, utilizando HTML
 
 ## 🗃️ Estructura del Proyecto
 
+---
+
+## 🧪 Mini-proyectos
+
+- [ ] 🎨 Póster motivacional con formas y texto
+- [ ] 🟡 Generador aleatorio de Pac-Mans
+- [ ] 🚀 Nave espacial con curvas configurables
+- [ ] ☄️ Asteroides con bordes irregulares y ruido
+- [ ] 🧱 Juego base con animación y colisiones
+
+---
+
+## 🧠 Lecciones aprendidas (resumen por capítulo)
+
+### 📗 Capítulo 1: HTML5 y el Canvas
+**Fecha:**  
+**Código principal:**  
+**Conceptos clave:**
+- `getContext("2d")`
+- `stroke`, `fill`, `lineTo`, `moveTo`
+
+**Aprendizajes:**
+-  
+-  
+
+---
+
+### 📗 Capítulo 2: Entendiendo las rutas
+**Fecha:**  
+**Código principal:**  
+**Conceptos clave:**
+- `beginPath()`, `closePath()`
+- `strokeStyle`, `fillStyle`
+- Grillas con `draw_grid()`
+
+**Aprendizajes:**
+-  
+-  
+
+---
+
+### 📗 Capítulo 3: Dibujo con intención (Pac-Man)
+...
+
+(Sigue con los demás capítulos)
+
+---
+
+## 🛠️ Herramientas y recursos utilizados
+
+- Editor: [VSCode / Sublime / otro]
+- Navegador: [Chrome / Firefox]
+- Recursos externos:
+  - [Canvas API en MDN](https://developer.mozilla.org/en-US/docs/Web/API/Canvas_API)
+  - [js13kGames](https://js13kgames.com/)
+
+---
+
+## 🚀 Proyecto Final: Clon de Asteroids
+
+**Nombre del juego:**  
+**Descripción:**  
+**Características implementadas:**  
+- [ ] Nave que se mueve y dispara  
+- [ ] Asteroides con formas únicas  
+- [ ] Colisiones  
+- [ ] Sistema de vidas / niveles  
+- [ ] Game Over / Restart  
+
+---
+
+## ✍️ Notas personales
+
+- Día 1:  
+- Día 2:  
+- ...
+
+---
+
+## 📌 Licencia
+
+MIT — ¡Usa, adapta y comparte libremente!
+
 
